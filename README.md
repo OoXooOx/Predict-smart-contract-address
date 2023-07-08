@@ -1,5 +1,6 @@
 # Predict-smart-contract-address
 Solidity code for create opcode
+
 If you think that this function from chatGPT will help, you are wrong))
 
 
