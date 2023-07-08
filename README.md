@@ -2,7 +2,8 @@
 Solidity code for create opcode
 If you think that this function from chatGPT will help, you are wrong))
 
-function predictAddress(address sender, uint256 nonce) public pure returns (address) {
+
+        function predictAddress(address sender, uint256 nonce) public pure returns (address) {
 
         bytes32 inputHash = keccak256(abi.encodePacked(sender, nonce));
         
